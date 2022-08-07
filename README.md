@@ -12,3 +12,6 @@ The aim of the study :
 
 is to build a sarcasm model that detect headline news using machine Learning
 and deep learning and attempt to understand how a computer learns the patterns of sarcasm.
+When it comes to opinion and emotions of the people towards any topic or service, evaluation of the 
+accurate sentiment is of the spirit because unfair or incorrectly recognized comment may lead to vagueness
+for users plus for the system itself. 
